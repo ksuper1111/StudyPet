@@ -8,8 +8,7 @@
 #include <string>
 //TO RUN USE THIS IN TERMIANAL python3 main.py
 // main.cpp Entry point for the C++ engine binary.
-// Python calls this as a subprocess, passing JSON in and reading JSON out.
-// Usage: ./M1AP --in data/state_in.json --out data/state_out.json
+
 
 
 static void usage() {
